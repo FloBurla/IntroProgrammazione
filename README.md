@@ -1,2 +1,1 @@
 # IntroProgrammazione
-cout >> "hello world"
