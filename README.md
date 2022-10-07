@@ -1,1 +1,2 @@
 # IntroProgrammazione
+cout >> "hello world"
